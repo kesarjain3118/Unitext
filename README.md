@@ -19,6 +19,6 @@ Display ASL signs using word GIFs and finger-spelling
 
 Run smoothly on CPU/GPU (GPU recommended)
 
-🔗 Live Demo: https://huggingface.co/spaces/kesarj/ai-summarizer-with-asl
+🔗 Live Demo: [https://huggingface.co/spaces/kesarj/ai-summarizer-with-asl](https://huggingface.co/spaces/KESARJAIN/UNITEXT56)
 🔗 https://www.linkedin.com/posts/kesar-jain-576474289_hackathon-ai-machinelearning-activity-7300515957393735680-2reE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYDlSoBNiKpzdjltnz75Cv-hLI4xotva-k
 🔗 Built For: Udhgam Hackathon 2025
